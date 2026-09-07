@@ -44,7 +44,6 @@ El material se proporciona en doble formato:
     └── excel/
         └── Anexo 1. Relación de 2720 variantes identificadas en el gen F11 según gnomAD.xlsx
 ```
-
 ---
 
 ## Capítulo 3: Tablas Suplementarias
