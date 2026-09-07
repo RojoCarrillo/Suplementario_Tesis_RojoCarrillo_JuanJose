@@ -17,8 +17,8 @@ El material se proporciona en doble formato:
 ├── README.md
 ├── figures/
 │   └── Modelo_Celular_Coagulacion.png
-├── Capitulo_3/
-│   ├── csv/
+├── Capitulo 3/
+│   ├── CSV/
 │   │   ├── Tabla_suplementaria1_Identificación-de-1685-genes-antisentido-en-Ensmbl.csv
 │   │   ├── Tabla_suplementaria2_Identificación-de-1556-genes-sentido-a-partir-de-su-gen-antisentido.csv
 │   │   ├── Tabla_suplementaria3_Tabla-relacional-de-los-1685-genes-antisentido-con-su-correspondiente-gen-sentido.csv
@@ -38,27 +38,28 @@ El material se proporciona en doble formato:
 │       ├── Tabla_suplementaria7_Expresión de los transcritos de los 696 genes sentido que no coexpresaron su correspondiente gen antisentido esperado.xlsx
 │       ├── Tabla_suplementaria8_Identificación de 51 transcritos de 40 genes antisentido que no coexpresaron su correspondiente gen sentido.xlsx
 │       └── Tabla_suplementaria9_Datos brutos de expresión de los nuevos genes nombrados como gen antisentido en TPM.xlsx
-└── Anexo_1/
-    ├── csv/
+└── Discusion General/
+    ├── CSV/
     │   └── Anexo 1. Relación de 2720 variantes identificadas en el gen F11 según gnomAD.csv
     └── excel/
         └── Anexo 1. Relación de 2720 variantes identificadas en el gen F11 según gnomAD.xlsx
 ```
+
 ---
 
 ## Capítulo 3: Tablas Suplementarias
 
 | Tabla | Título y Descripción | Vista directa (CSV) | Archivo Excel |
 | :--- | :--- | :---: | :---: |
-| **Tabla Suplementaria 1** | Identificación de 1685 genes antisentido en Ensembl | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria1_Identificación-de-1685-genes-antisentido-en-Ensmbl.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria1_Identificación-de-1685-genes-antisentido-en-Ensmbl.xlsx>) |
-| **Tabla Suplementaria 2** | Identificación de 1556 genes sentido a partir de su gen antisentido | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria2_Identificación-de-1556-genes-sentido-a-partir-de-su-gen-antisentido.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria2_Identificación-de-1556-genes-sentido-a-partir-de-su-gen-antisentido.xlsx>) |
-| **Tabla Suplementaria 3** | Tabla relacional de los 1685 genes antisentido con su correspondiente gen sentido | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria3_Tabla-relacional-de-los-1685-genes-antisentido-con-su-correspondiente-gen-sentido.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria3_Tabla-relacional-de-los-1685-genes-antisentido-con-su-correspondiente-gen-sentido.xlsx>) |
-| **Tabla Suplementaria 4** | Genes antisentido que solapan con dos o más genes sentido | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria4_Genes-antisentido-que-solapan-con-dos-o-más-genes-sentido.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria4_Genes-antisentido-que-solapan-con-dos-o-más-genes-sentido.xlsx>) |
-| **Tabla Suplementaria 5** | Genes antisentido y su solapamiento respecto a gen sentido | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria5_Genes-antisentido-y-su-solapamiento-respecto-a-gen-sentido.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria5_Genes-antisentido-y-su-solapamiento-respecto-a-gen-sentido.xlsx>) |
-| **Tabla Suplementaria 6** | Relación de los 111 pares de genes antisentido-sentido identificados en hígado humano | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria6_Relación de los 111 pares de genes antisentido-sentido identificados en hígado humano.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria6_Relación de los 111 pares de genes antisentido-sentido identificados en hígado humano.xlsx>) |
-| **Tabla Suplementaria 7** | Expresión de los transcritos de los 696 genes sentido que no coexpresaron su correspondiente gen antisentido esperado | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria7_Expresión de los transcritos de los 696 genes sentido que no coexpresaron su correspondiente gen antisentido esperado.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria7_Expresión de los transcritos de los 696 genes sentido que no coexpresaron su correspondiente gen antisentido esperado.xlsx>) |
-| **Tabla Suplementaria 8** | Identificación de 51 transcritos de 40 genes antisentido que no coexpresaron su correspondiente gen sentido | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria8_Identificación de 51 transcritos de 40 genes antisentido que no coexpresaron su correspondiente gen sentido.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria8_Identificación de 51 transcritos de 40 genes antisentido que no coexpresaron su correspondiente gen sentido.xlsx>) |
-| **Tabla Suplementaria 9** | Datos brutos de expresión de los nuevos genes nombrados como gen antisentido en TPM | [Ver CSV](<Capitulo_3/CSV/Tabla_suplementaria9_Datos brutos de expresión de los nuevos genes nombrados como gen antisentido en TPM.csv>) | [Descargar XLSX](<Capitulo_3/Excel/Tabla_suplementaria9_Datos brutos de expresión de los nuevos genes nombrados como gen antisentido en TPM.xlsx>) |
+| **Tabla Suplementaria 1** | Identificación de 1685 genes antisentido en Ensembl | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria1_Identificaci%C3%B3n-de-1685-genes-antisentido-en-Ensmbl.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria1_Identificaci%C3%B3n-de-1685-genes-antisentido-en-Ensmbl.xlsx) |
+| **Tabla Suplementaria 2** | Identificación de 1556 genes sentido a partir de su gen antisentido | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria2_Identificaci%C3%B3n-de-1556-genes-sentido-a-partir-de-su-gen-antisentido.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria2_Identificaci%C3%B3n-de-1556-genes-sentido-a-partir-de-su-gen-antisentido.xlsx) |
+| **Tabla Suplementaria 3** | Tabla relacional de los 1685 genes antisentido con su correspondiente gen sentido | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria3_Tabla-relacional-de-los-1685-genes-antisentido-con-su-correspondiente-gen-sentido.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria3_Tabla-relacional-de-los-1685-genes-antisentido-con-su-correspondiente-gen-sentido.xlsx) |
+| **Tabla Suplementaria 4** | Genes antisentido que solapan con dos o más genes sentido | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria4_Genes-antisentido-que-solapan-con-dos-o-m%C3%A1s-genes-sentido.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria4_Genes-antisentido-que-solapan-con-dos-o-m%C3%A1s-genes-sentido.xlsx) |
+| **Tabla Suplementaria 5** | Genes antisentido y su solapamiento respecto a gen sentido | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria5_Genes-antisentido-y-su-solapamiento-respecto-a-gen-sentido.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria5_Genes-antisentido-y-su-solapamiento-respecto-a-gen-sentido.xlsx) |
+| **Tabla Suplementaria 6** | Relación de los 111 pares de genes antisentido-sentido identificados en hígado humano | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria6_Relaci%C3%B3n%20de%20los%20111%20pares%20de%20genes%20antisentido-sentido%20identificados%20en%20h%C3%ADgado%20humano.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria6_Relaci%C3%B3n%20de%20los%20111%20pares%20de%20genes%20antisentido-sentido%20identificados%20en%20h%C3%ADgado%20humano.xlsx) |
+| **Tabla Suplementaria 7** | Expresión de los transcritos de los 696 genes sentido que no coexpresaron su correspondiente gen antisentido esperado | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria7_Expresi%C3%B3n%20de%20los%20transcritos%20de%20los%20696%20genes%20sentido%20que%20no%20coexpresaron%20su%20correspondiente%20gen%20antisentido%20esperado.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria7_Expresi%C3%B3n%20de%20los%20transcritos%20de%20los%20696%20genes%20sentido%20que%20no%20coexpresaron%20su%20correspondiente%20gen%20antisentido%20esperado.xlsx) |
+| **Tabla Suplementaria 8** | Identificación de 51 transcritos de 40 genes antisentido que no coexpresaron su correspondiente gen sentido | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria8_Identificaci%C3%B3n%20de%2051%20transcritos%20de%2040%20genes%20antisentido%20que%20no%20coexpresaron%20su%20correspondiente%20gen%20sentido.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria8_Identificaci%C3%B3n%20de%2051%20transcritos%20de%2040%20genes%20antisentido%20que%20no%20coexpresaron%20su%20correspondiente%20gen%20sentido.xlsx) |
+| **Tabla Suplementaria 9** | Datos brutos de expresión de los nuevos genes nombrados como gen antisentido en TPM | [Ver CSV](Capitulo%203/CSV/Tabla_suplementaria9_Datos%20brutos%20de%20expresi%C3%B3n%20de%20los%20nuevos%20genes%20nombrados%20como%20gen%20antisentido%20en%20TPM.csv) | [Descargar XLSX](Capitulo%203/excel/Tabla_suplementaria9_Datos%20brutos%20de%20expresi%C3%B3n%20de%20los%20nuevos%20genes%20nombrados%20como%20gen%20antisentido%20en%20TPM.xlsx) |
 
 ---
 
@@ -66,7 +67,7 @@ El material se proporciona en doble formato:
 
 | Anexo | Título y Descripción | Vista directa (CSV) | Archivo Excel |
 | :--- | :--- | :---: | :---: |
-| **Anexo 1** | Relación de 2720 variantes identificadas en el gen *F11* según gnomAD | [Ver CSV](<Anexo_1/csv/Anexo 1. Relación de 2720 variantes identificadas en el gen F11 según gnomAD.csv>) | [Descargar XLSX](<Anexo_1/excel/Anexo 1. Relación de 2720 variantes identificadas en el gen F11 según gnomAD.xlsx>) |
+| **Anexo 1** | Relación de 2720 variantes identificadas en el gen *F11* según gnomAD | [Ver CSV](Discusion%20General/CSV/Anexo%201.%20Relaci%C3%B3n%20de%202720%20variantes%20identificadas%20en%20el%20gen%20F11%20seg%C3%BAn%20gnomAD.csv) | [Descargar XLSX](Discusion%20General/excel/Anexo%201.%20Relaci%C3%B3n%20de%202720%20variantes%20identificadas%20en%20el%20gen%20F11%20seg%C3%BAn%20gnomAD.xlsx) |
 
 ---
 
