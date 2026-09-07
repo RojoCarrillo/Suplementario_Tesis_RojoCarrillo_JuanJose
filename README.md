@@ -1,20 +1,6 @@
 # Material Suplementario de Tesis Doctoral
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg
-        
-        
-        
-        
-        
-        )](https://doi.org/10.5281/zenodo.XXXXXXX
-        
-        
-        
-        
-        
-        )
-        
-        
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Este repositorio alberga el material suplementario, tablas de datos relacionales, niveles de expresión génica y catálogos mutacionales correspondientes a la tesis doctoral de **Juan José Rojo Carrillo**.
@@ -56,19 +42,6 @@ El material se proporciona en doble formato:
     └── excel/
         └── Anexo_1_Variantes_F11_gnomAD.xlsx
 ```
-
----
-
-## Figuras Suplementarias
-
-### Figura 1. Modelo celular de la coagulación sanguínea
-
-![Modelo celular de la coagulación](figures/Modelo_Celular_Coagulacion.png)
-
-> **Leyenda:** Representación esquemática del modelo celular de la coagulación en tres fases solapadas:
-> * **(a) Iniciación:** Expresión del Factor Tisular (FT) en la superficie de la célula portadora y ensamblaje del complejo FT-VIIa, catalizando la activación inicial de Factor X (Xa) y Factor IX (IXa). El Xa activa cantidades limitadas de protrombina a trombina (IIa) antes de su inhibición por el inhibidor de la vía del factor tisular (TFPI) y la antitrombina (AT).
-> * **(b) Amplificación:** La trombina residual (IIa) promueve la activación plaquetaria, escinde el complejo factor VIII/factor von Willebrand (vWF), y activa a los cofactores V (Va), VIII (VIIIa) y al Factor XI (XIa).
-> * **(c) Propagación:** Sobre la membrana de fosfolípidos aniónicos de la plaqueta activada, el Factor XIa optimiza la activación continuada de IX a IXa. Se estructuran los complejos catalíticos de alta afinidad: el **Complejo Tenasa** (VIIIa-IXa, responsable de la generación a gran escala de Xa) y el **Complejo Protrombinasa** (Va-Xa), responsables del estallido masivo (*burst*) de trombina (IIa) indispensable para la generación de fibrina polimérica y la consolidación hemostática.
 
 ---
 
