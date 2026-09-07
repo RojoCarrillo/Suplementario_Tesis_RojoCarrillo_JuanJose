@@ -44,20 +44,6 @@ El material se proporciona en doble formato:
     └── excel/
         └── Anexo 1. Relación de 2720 variantes identificadas en el gen F11 según gnomAD.xlsx
 ```
-
----
-
-## Figuras Suplementarias
-
-### Figura 1. Modelo celular de la coagulación sanguínea
-
-![Modelo celular de la coagulación](figures/Modelo_Celular_Coagulacion.png)
-
-> **Leyenda:** Representación esquemática del modelo celular de la coagulación en tres fases solapadas:
-> * **(a) Iniciación:** Expresión del Factor Tisular (FT) en la superficie de la célula portadora y ensamblaje del complejo FT-VIIa, catalizando la activación inicial de Factor X (Xa) y Factor IX (IXa). El Xa activa cantidades limitadas de protrombina a trombina (IIa) antes de su inhibición por el inhibidor de la vía del factor tisular (TFPI) y la antitrombina (AT).
-> * **(b) Amplificación:** La trombina residual (IIa) promueve la activación plaquetaria, escinde el complejo factor VIII/factor von Willebrand (vWF), y activa a los cofactores V (Va), VIII (VIIIa) y al Factor XI (XIa).
-> * **(c) Propagación:** Sobre la membrana de fosfolípidos aniónicos de la plaqueta activada, el Factor XIa optimiza la activación continuada de IX a IXa. Se estructuran los complejos catalíticos de alta afinidad: el **Complejo Tenasa** (VIIIa-IXa, responsable de la generación a gran escala de Xa) y el **Complejo Protrombinasa** (Va-Xa), responsables del estallido masivo (*burst*) de trombina (IIa) indispensable para la generación de fibrina polimérica y la consolidación hemostática.
-
 ---
 
 ## Capítulo 3: Tablas Suplementarias
