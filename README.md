@@ -17,8 +17,6 @@ El material se proporciona en doble formato:
 
 ```text
 ├── README.md
-├── figures/
-│   └── Modelo_Celular_Coagulacion.png
 ├── Capitulo 3/
 │   ├── CSV/
 │   │   ├── Tabla_suplementaria1_Identificación-de-1685-genes-antisentido-en-Ensmbl.csv
