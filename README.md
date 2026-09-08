@@ -81,8 +81,8 @@ Si utilizas estos datos, tablas o recursos en investigaciones derivadas, por fav
   title        = {Material Suplementario: Tesis Doctoral},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)}
+  doi          = {10.5281/zenodo.22650240},
+  url          = {[https://doi.org/10.5281/zenodo.22650240](https://doi.org/10.5281/zenodo.22650240)}
 }
 ```
 
